@@ -1,0 +1,17 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.ModBar.cpp.obj": [
+			"ModbarInterface.cpp.obj",
+			"BarSlot.cpp.obj",
+			"ModBar_C.cpp.obj",
+			"ModBar.cpp.obj"
+		],
+		"Module.ModBar.gen.cpp.obj": [
+			"BarSlot.gen.cpp.obj",
+			"ModBar.init.gen.cpp.obj",
+			"ModbarInterface.gen.cpp.obj",
+			"Modbar_C.gen.cpp.obj"
+		]
+	}
+}

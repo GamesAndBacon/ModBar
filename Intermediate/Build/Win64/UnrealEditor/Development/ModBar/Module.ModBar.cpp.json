@@ -1,0 +1,40 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "e:\\unreal projects\\multiarenabrawler\\plugins\\modbar\\intermediate\\build\\win64\\unrealeditor\\development\\modbar\\module.modbar.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\unreal projects\\multiarenabrawler\\intermediate\\build\\win64\\multiarenabrawlereditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\unreal projects\\multiarenabrawler\\plugins\\modbar\\intermediate\\build\\win64\\unrealeditor\\development\\modbar\\definitions.modbar.h",
+            "e:\\unreal projects\\multiarenabrawler\\plugins\\modbar\\source\\modbar\\modbarinterface.cpp",
+            "e:\\unreal projects\\multiarenabrawler\\plugins\\modbar\\source\\modbar\\modbarinterface.h",
+            "e:\\unreal projects\\multiarenabrawler\\plugins\\modbar\\source\\modbar\\public\\main\\modbar_c.h",
+            "e:\\unreal projects\\multiarenabrawler\\plugins\\modbar\\intermediate\\build\\win64\\unrealeditor\\inc\\modbar\\modbar_c.generated.h",
+            "e:\\unreal projects\\multiarenabrawler\\plugins\\modbar\\intermediate\\build\\win64\\unrealeditor\\inc\\modbar\\modbarinterface.generated.h",
+            "e:\\unreal projects\\multiarenabrawler\\plugins\\modbar\\source\\modbar\\private\\main\\barslot.cpp",
+            "e:\\unreal projects\\multiarenabrawler\\plugins\\modbar\\source\\modbar\\public\\main\\barslot.h",
+            "e:\\epic games\\ue_5.0\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "e:\\epic games\\ue_5.0\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "e:\\epic games\\ue_5.0\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "e:\\epic games\\ue_5.0\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "e:\\epic games\\ue_5.0\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "e:\\epic games\\ue_5.0\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "e:\\unreal projects\\multiarenabrawler\\plugins\\modbar\\intermediate\\build\\win64\\unrealeditor\\inc\\modbar\\barslot.generated.h",
+            "e:\\unreal projects\\multiarenabrawler\\plugins\\modbar\\source\\modbar\\private\\main\\modbar_c.cpp",
+            "e:\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamesession.h",
+            "e:\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamesession.generated.h",
+            "e:\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystatics.h",
+            "e:\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetsystemlibrary.h",
+            "e:\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\kismetsystemlibrary.generated.h",
+            "e:\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\sound\\dialoguetypes.h",
+            "e:\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\dialoguetypes.generated.h",
+            "e:\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystaticstypes.h",
+            "e:\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gameplaystaticstypes.generated.h",
+            "e:\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gameplaystatics.generated.h",
+            "e:\\unreal projects\\multiarenabrawler\\plugins\\modbar\\source\\modbar\\private\\modbar.cpp",
+            "e:\\unreal projects\\multiarenabrawler\\plugins\\modbar\\source\\modbar\\public\\modbar.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

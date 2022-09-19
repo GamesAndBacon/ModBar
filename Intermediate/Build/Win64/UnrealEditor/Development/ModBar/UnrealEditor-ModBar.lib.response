@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ModBar.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Unreal Projects\MultiArenaBrawler\Intermediate\Build\Win64\MultiArenaBrawlerEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\Unreal Projects\MultiArenaBrawler\Plugins\ModBar\Intermediate\Build\Win64\UnrealEditor\Development\ModBar\Module.ModBar.cpp.obj"
+"E:\Unreal Projects\MultiArenaBrawler\Plugins\ModBar\Intermediate\Build\Win64\UnrealEditor\Development\ModBar\Module.ModBar.gen.cpp.obj"
+"E:\Unreal Projects\MultiArenaBrawler\Plugins\ModBar\Intermediate\Build\Win64\UnrealEditor\Development\ModBar\Default.rc2.res"
+/OUT:"E:\Unreal Projects\MultiArenaBrawler\Plugins\ModBar\Intermediate\Build\Win64\UnrealEditor\Development\ModBar\UnrealEditor-ModBar.lib"
